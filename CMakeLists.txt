@@ -10,4 +10,5 @@ add_executable(
     dpi_engine
     src/main.cpp
     src/pcap_reader.cpp
+    src/packet_parser.cpp
 )
